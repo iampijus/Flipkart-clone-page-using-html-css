@@ -1,0 +1,29 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+        padding: 7px 15px;
+        color: white;
+        background: var(--main-bg-color);
+        border: 2px solid white;
+        border-radius: 7px;
+        cursor: pointer; 
+}
+.my-1{
+    margin:33px 30px;;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+}
+.red{
+    color: red;
+}
+hr{
+    color:white;
+    margin: 28px 18px 50px;
+}
+::placeholder{
+    font-size: 15px;
+}
